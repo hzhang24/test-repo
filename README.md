@@ -1,2 +1,2 @@
 # test-repo
-to be continued...
+this is a demo
